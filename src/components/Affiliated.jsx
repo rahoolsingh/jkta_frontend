@@ -71,28 +71,28 @@ const taekwondoAssociations = [
       },
     ],
   },
-  {
-    district: "Poonch",
-    association: "Taekwondo Association of District Poonch",
-    officeBearers: ["Priyanka Singh", "Taranpreet Kaur"],
-    image: poonch,
-    clubs: [
-      {
-        name: "Poonch Taekwondo Club / Academy",
-        president: "Makhan Lal",
-        secretary: "Taranpreet Kaur",
-        address: "Mohalla Kama Khan Poonch",
-        image: poonch_club,
-      },
-      {
-        name: "National Taekwondo Club",
-        president: "Mr Haris Hadhi",
-        secretary: "Mr Hasan",
-        address: "Tehsil Mandi District Poonch",
-        image: ntc,
-      },
-    ],
-  },
+  // {
+  //   district: "Poonch",
+  //   association: "Taekwondo Association of District Poonch",
+  //   officeBearers: ["Priyanka Singh", "Taranpreet Kaur"],
+  //   image: poonch,
+  //   clubs: [
+  //     {
+  //       name: "Poonch Taekwondo Club / Academy",
+  //       president: "Makhan Lal",
+  //       secretary: "Taranpreet Kaur",
+  //       address: "Mohalla Kama Khan Poonch",
+  //       image: poonch_club,
+  //     },
+  //     {
+  //       name: "National Taekwondo Club",
+  //       president: "Mr Haris Hadhi",
+  //       secretary: "Mr Hasan",
+  //       address: "Tehsil Mandi District Poonch",
+  //       image: ntc,
+  //     },
+  //   ],
+  // },
   {
     district: "Budgam",
     association: "Taekwondo Association of District Budgam",

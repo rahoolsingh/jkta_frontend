@@ -150,10 +150,10 @@ export default [
         district: "Kupwara",
         clubs: [],
     },
-    {
-        district: "Poonch",
-        clubs: [],
-    },
+    // {
+    //     district: "Poonch",
+    //     clubs: [],
+    // },
     {
         district: "Pulwama",
         clubs: [],
