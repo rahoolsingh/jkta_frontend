@@ -116,7 +116,7 @@ const Footer = () => {
                     </Link>
                 </p>
                 <p>
-                    &copy; 2024 J & K Taekwondo Association of India. All rights
+                    &copy; {new Date().getFullYear()} J & K Taekwondo Association of India. All rights
                     reserved.
                 </p>
             </div>
